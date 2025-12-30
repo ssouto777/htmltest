@@ -5,14 +5,13 @@
      <head>
       <meta charset="UTF-8">
       <title="Htmlbasic"></title>
-      <link rel="stylesheet" href="styles.css">
      </head>
 
      <body>
 
        <header>
-         <h1 id="title">Basic html</h1>
-         <button id="btn">Change title</button>
+         <h1>Basic html</h1>
+         <button>Change title</button>
          <br>
        </header>
 
@@ -24,9 +23,8 @@
         <section>
             <article>
                 <br>
-            <input id="nameInput" placeholder="Your name">
-            <button id="helloBtn">Say hi</button>
-            <p id="result"></p>
+            <button>Say hi</button>
+            <p>dfgdf</p>
             </article>
         </section>
 
@@ -35,10 +33,7 @@
                 <br><br><br><br><br>
                 <p><strong>COUNTER</strong></p>
                 <br>
-            <p id="count">0</p>
-            <button id="plus">+</button>
-            <button id="minus">-</button>
-            <button id="reset">Reset</button>
+            <p>0</p>
             </article>
         </section>
 
@@ -46,7 +41,6 @@
 
         <br><br><br><br><footer>End of website</footer>
   
-     <script src="script1.js"></script>
      
     </body> 
 </html>
